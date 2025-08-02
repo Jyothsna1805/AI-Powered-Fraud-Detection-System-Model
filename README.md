@@ -1,6 +1,7 @@
 🔍 AI-Powered Fraud Detection System
 
 🚀 Overview
+
 Fraudulent financial transactions pose a growing threat in the digital economy. This project presents an innovative, AI-powered fraud detection system that leverages advanced machine learning techniques, graph theory, and quantum-inspired feature engineering to identify and prevent fraud in real-time.
 
 💡 Unlike traditional rule-based systems, our solution is:
