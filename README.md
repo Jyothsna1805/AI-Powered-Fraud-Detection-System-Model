@@ -40,12 +40,5 @@ Predictions saved as `prediction.csv` with:
 
 ---
 
-## 📬 Contact
-
-**Author**: [Your Name]  
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-
----
 
 > 💡 *“Detecting fraud isn’t about just catching anomalies — it’s about understanding behavior.”*
